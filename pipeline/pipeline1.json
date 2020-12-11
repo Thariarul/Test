@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "TestDF",
+				"name": "TestDF2",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
